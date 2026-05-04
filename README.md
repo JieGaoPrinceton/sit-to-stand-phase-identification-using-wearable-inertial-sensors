@@ -9,6 +9,7 @@
 - [AI训练说明与操作指南](docs/AI训练说明与操作指南.md) - AI training How-to guide
 - [数据格式说明](docs/数据格式说明.md) - Data format specification
 - [模型泛化验证与公开数据集](docs/模型泛化验证与公开数据集.md) - Generalization & public datasets (UCI-HAR, WISDM, OPPORTUNITY)
+- [IMU数据处理详解](docs/IMU数据处理详解.md) - IMU data processing pipeline explained
 
 ---
 
