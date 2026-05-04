@@ -7,6 +7,7 @@
 - [复现方案](docs/复现方案.md) - Reproduction guide
 - [实验设备介绍与操作指南](docs/实验设备介绍与操作指南.md) - Equipment introduction & How-to guide
 - [AI训练说明与操作指南](docs/AI训练说明与操作指南.md) - AI training How-to guide
+- [数据格式说明](docs/数据格式说明.md) - Data format specification
 
 ---
 
