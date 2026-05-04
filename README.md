@@ -1,4 +1,15 @@
 # sit-to-stand-phase-identification-using-wearable-inertial-sensors
+
+> **[中文版 README](README_CN.md)**
+
+## 📚 Documentation
+- [对比分析报告](docs/对比分析报告.md) - Paper vs Code comparison analysis
+- [复现方案](docs/复现方案.md) - Reproduction guide
+- [实验设备介绍与操作指南](docs/实验设备介绍与操作指南.md) - Equipment introduction & How-to guide
+- [AI训练说明与操作指南](docs/AI训练说明与操作指南.md) - AI training How-to guide
+
+---
+
 The core code is corresponding to the following paper:
 Title:A Novel CNN-BiLSTM ensemble model with attention mechanism for sit-to-stand phase identification using wearable inertial sensors
 Authors:Xin Chen, Shibo Cai*，Longjie Yu, Xiaoling Li, Bingfei Fan, Mingyu Du, Tao Liu, and Guanjun Bao
